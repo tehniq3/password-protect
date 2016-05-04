@@ -1,7 +1,7 @@
 /*
 ||  Simple Password Entry Using Matrix Keypad
 ||  4/5/2012 Updates Nathan Sobieck: Nathan@Sobisource.com
-||
+||  changed by niq_ro (Nicu FLORICA) - http://www.tehnic.go.ro & http://www.arduinotehniq.com
 */
 
 
