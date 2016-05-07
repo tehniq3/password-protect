@@ -12,8 +12,8 @@
 
 /////////////////////////////////////////////////////////////////
 
-#include <Password.h> //http://www.arduino.cc/playground/uploads/Code/Password.zip
-#include <Keypad.h> //http://www.arduino.cc/playground/uploads/Code/Keypad.zip
+#include <Password.h> // http://www.arduino.cc/playground/uploads/Code/Password.zip
+#include <Keypad.h> // http://www.arduino.cc/playground/uploads/Code/Keypad.zip
 
 Password password = Password( "1234" );
 
